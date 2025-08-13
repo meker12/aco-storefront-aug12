@@ -4,6 +4,9 @@
       "commerce-core-endpoint": "https://na1-sandbox.api.commerce.adobe.com/Fwus6kdpvYCmeEdcCX7PZg/graphql",
       "commerce-endpoint": "https://na1-sandbox.api.commerce.adobe.com/Fwus6kdpvYCmeEdcCX7PZg/graphql",
       "headers": {
+        "all": {
+          "Store": "default"
+        },
         "cs": {
           "AC-View-ID": "41220428-3090-4650-8394-7a4a12b2c059"
         }
