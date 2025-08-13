@@ -5,8 +5,7 @@
       "commerce-endpoint": "https://na1-sandbox.api.commerce.adobe.com/Fwus6kdpvYCmeEdcCX7PZg/graphql",
       "headers": {
         "cs": {
-          "AC-View-ID": "41220428-3090-4650-8394-7a4a12b2c059",
-          "AC-Price-Book-ID": "YOUR_HEADER_VALUE",
+          "AC-View-ID": "41220428-3090-4650-8394-7a4a12b2c059"
         }
       },
       "analytics": {
