@@ -4,9 +4,6 @@
       "commerce-core-endpoint": "https://na1-sandbox.api.commerce.adobe.com/Fwus6kdpvYCmeEdcCX7PZg/graphql",
       "commerce-endpoint": "https://na1-sandbox.api.commerce.adobe.com/Fwus6kdpvYCmeEdcCX7PZg/graphql",
       "headers": {
-        "all": {
-          "Store": "default"
-        },
         "cs": {
           "AC-View-ID": "YOUR_HEADER_VALUE",
           "AC-Price-Book-ID": "YOUR_HEADER_VALUE",
